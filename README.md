@@ -21,8 +21,8 @@ If you don't find what you're looking for there, [talk to a human](#discussion).
 * ***Language files: https://github.com/pmmp/PocketMine-Language***
 
 ### Discussion
- - Here is our Telegram group, where you can communicate with us: [Telegram/ClearSky](https://telegram.me/joinchat/AlErxD3AN_GOgeSAcS0twA).
- - Here is our Telegram plugin group, where you can talk about plugin development: [Telegram/PMPlugins](https://t.me/pmplugins)
+ - Here is our Telegram group, where you can communicate with us: [Telegram/ClearSky](https://t.me/joinchat/AAAAAD3AN_Ge6YIEazYxXQ).
+ - Here is our Telegram plugin group, where you can talk about plugin development: [Telegram/PMPlugins](https://t.me/joinchat/AAAAAD88JwKTn1d9XrS1xA)
 
 ### Plugins
 There are a very wide range of already-written plugins available which you can use to customise your server. Check out the [old plugin repository](http://plugins.pocketmine.net/), [Poggit](https://poggit.pmmp.io) or just search GitHub.
